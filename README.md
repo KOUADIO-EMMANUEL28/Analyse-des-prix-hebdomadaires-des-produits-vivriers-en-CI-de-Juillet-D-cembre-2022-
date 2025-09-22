@@ -1,5 +1,5 @@
 # Analyse-des-prix-hebdomadaires-des-produits-vivriers-en-CI-de-Juillet-D-cembre-2022-
-Ce projet d'analyse des données a pour but de mettre en évidence l'évolution des prix des produits vivriers en fonction de divers facteurs tels que la disponibilité, le lieu et la catégorie.
+
 
 ## Table des matières
 
@@ -18,6 +18,12 @@ Ce projet d'analyse des données a pour but de mettre en évidence l'évolution 
 -[Résultats](#résultats)
 
 -[Bon à savoir](#bon-à-savoir)
+
+
+## Descriprion
+
+Ce projet d'analyse des données a pour but de mettre en évidence l'évolution des prix des produits vivriers en fonction de divers facteurs tels que la disponibilité, le lieu et la catégorie.
+
 
 ### Source de des données
 Le datatest utilisé pour cette analyse est le fichier "prix-hebdomadaires-des-produits-vivriers-de-cote-divoire.csv", telechargé sur le site de l'Agence National de Statistiques ANSAT
@@ -79,7 +85,7 @@ Evolution du prix selon le Lieu
 
 #### Bon à savoir
 
-1.Nous avons supprimé tous les zéros et les valeurs manquantes dans la colonnes des prix car cela aurait influencé grandement les résultats ,le faisant nous avons perdu une partie des données. Néanmoins ces résultats donne une vision d'ensemble.
+1. Nous avons supprimé tous les zéros et les valeurs manquantes dans la colonnes des prix car cela aurait influencé grandement les résultats ,le faisant nous avons perdu une partie des données. Néanmoins ces résultats donne une vision d'ensemble.
 
 2. Les prix sont en FCFA
 
