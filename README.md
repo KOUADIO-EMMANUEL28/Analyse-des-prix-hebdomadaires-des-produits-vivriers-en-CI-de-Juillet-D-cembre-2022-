@@ -22,7 +22,7 @@
 
 ## Descriprion
 
-Ce projet d'analyse des données a pour but de mettre en évidence l'évolution des prix des produits vivriers en fonction de divers facteurs tels que la disponibilité, le lieu et la catégorie.
+Ce projet d'analyse des données a pour but de mettre en évidence l'évolution des prix des produits vivriers(par Kg) en fonction de divers facteurs tels que la disponibilité, le lieu et la catégorie.
 
 
 ### Source de des données
@@ -31,7 +31,7 @@ Le datatest utilisé pour cette analyse est le fichier "prix-hebdomadaires-des-p
 ### Outils
 -Rstudio pour le nettoyage et l'analyse des données
 
--PowerBi pour la création de rapports
+-PowerBI pour la création de rapports
 
 #### Préparation des données
 
@@ -68,23 +68,49 @@ distinct()
 
 #### Résultats
 
+
+
 Evolution globale du prix moyen
-
-
-
-
-Evolution du prix par catégorie
 <img width="851" height="475" alt="image" src="https://github.com/user-attachments/assets/36e29cf2-30cb-413b-95c1-c5b12861043d" />
 
 <img width="863" height="476" alt="prix lieu temps" src="https://github.com/user-attachments/assets/eff9413f-dfd5-4259-b2a8-b490d4575e5a" />
 
 
+Evolution du prix selon la catégorie
+
+<img width="718" height="253" alt="prix KTG tbl" src="https://github.com/user-attachments/assets/c0926aeb-3265-4eac-8052-1237201e28e9" />
+
+
+
+<img width="517" height="448" alt="prix KTG" src="https://github.com/user-attachments/assets/02a3280a-d0bf-4467-912f-a73715f7f813" />
+
 Evolution du prix selon la disponibilité
 
 
+<img width="592" height="447" alt="prix dispo" src="https://github.com/user-attachments/assets/94994ecb-7943-40af-9b21-99fa0a8a25bf" />
+
+
+<img width="563" height="321" alt="prix dispo tbl" src="https://github.com/user-attachments/assets/be2842cf-ba75-4fcd-be3f-3c8cf54ff3ef" />
 
 
 Evolution du prix selon le Lieu
+
+<img width="783" height="467" alt="prix lieu" src="https://github.com/user-attachments/assets/5c4bfdea-d0c6-49a8-9756-9543e4f20583" />
+
+
+<img width="547" height="427" alt="prix lieu tbl" src="https://github.com/user-attachments/assets/06ee2d46-8e35-49bf-8839-b5800aad512b" />
+
+
+
+Evolution du prix par disponibilité et par Lieu
+
+<img width="351" height="425" alt="prix dispo lieu tbl" src="https://github.com/user-attachments/assets/8ac8b3aa-af22-44a2-b9a6-a2b17c572aac" />
+
+
+<img width="499" height="451" alt="prix dispo lieu" src="https://github.com/user-attachments/assets/b63a2b07-1832-4ce9-af96-020a254a5fde" />
+
+
+
 
 #### Bon à savoir
 
