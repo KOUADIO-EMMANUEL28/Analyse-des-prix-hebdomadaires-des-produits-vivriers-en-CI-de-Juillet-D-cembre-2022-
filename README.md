@@ -74,7 +74,9 @@ Evolution globale du prix moyen
 
 
 Evolution du prix par catégorie
+<img width="851" height="475" alt="image" src="https://github.com/user-attachments/assets/36e29cf2-30cb-413b-95c1-c5b12861043d" />
 
+<img width="863" height="476" alt="prix lieu temps" src="https://github.com/user-attachments/assets/eff9413f-dfd5-4259-b2a8-b490d4575e5a" />
 
 
 Evolution du prix selon la disponibilité
